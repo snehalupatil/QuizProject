@@ -1,0 +1,8 @@
+# The line below states we will base our new image on the Latest Official Ubuntu 
+FROM python:latest
+
+# Identify the maintainer of an image
+LABEL maintainer="snehal@somecompany.com"
+
+# Copy code into container
+COPY ./code /home
