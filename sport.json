@@ -1,0 +1,47 @@
+{
+    "Q1":{
+        "q" : "India's National game?",
+        "opt" : {
+            "opt1" : "Football",
+            "opt2" : "Hockey",
+            "opt3" : "Cricket"
+        },
+        "answer" : "2"
+    },
+    "Q2":{
+        "q" : "P.T.Usha is in ?",
+        "opt" : {
+            "opt1" : "Tennis",
+            "opt2" : "Cricket",
+            "opt3" : "Athlatics"
+        },
+        "answer" : "3"
+    },
+    "Q3":{
+        "q" : "No. of players in cricket?",
+        "opt" : {
+            "opt1" : "11",
+            "opt2" : "12",
+            "opt3" : "13"
+        },
+        "answer" : "1"
+    },
+    "Q4":{
+        "q" : "No. of balls in an over ?",
+        "opt" : {
+            "opt1" : "7",
+            "opt2" : "6",
+            "opt3" : "10"
+        },
+        "answer" : "2"
+    },
+    "Q5":{
+        "q" : "Current Indian's Cricket Capton",
+        "opt" : {
+            "opt1" : "Virat Kohli",
+            "opt2" : "M.S.Dhoni",
+            "opt3" : "Rohit Sharma"
+        },
+        "answer" : "1"
+    }
+}
